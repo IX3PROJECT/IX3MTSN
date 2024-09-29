@@ -21,7 +21,7 @@ const Schedule = () => {
 
     // Menentukan kelompok piket berdasarkan hari
     piketGroup = [
-        ["Amel", "Helmalia", "Fadli I", "Shera", "Nicollas"],
+        ["Anggi Sri Mulyani", "Bilqis Nurhidayah", "Shofiyah", "Adyanaufal", "Ahmad Fadil"],
         ["Windi", "Lista", "Jeriko", "Pratiwi", "Damar"],
         ["Ainul Mardhiyyah", "Alisha Dayana", "Enjel", "Ferdynand", "Najim Al Haqoni"],
         ["Jihan Nur Asqa", "Andini", "Muh Hizam Qabbani", "Muh Resqi Mubaraq", "Aldian Saputra"],
